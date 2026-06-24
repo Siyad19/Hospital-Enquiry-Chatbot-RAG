@@ -142,9 +142,9 @@ http://localhost:8501
 
 
 ```markdown
-![Chats](screenshots/screenshot1.png)
-![Chats](screenshots/screenshot2.png)
-![Chats](screenshots/screenshot3.png)
+![Chats](screenshots/Screenshot1.png)
+![Chats](screenshots/Screenshot2.png)
+![Chats](screenshots/Screenshot3.png)
 ```
 
 
